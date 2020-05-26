@@ -7,7 +7,7 @@ date = "2018-02-01"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ryan Richard Ruff", "Richard Niederman"]
 
-doi = "10.1177/ 2380084417750612"
+doi = "10.1177/2380084417750612"
 
 # Publication type.
 # Legend:
