@@ -12,4 +12,8 @@ view: 4
 header:
   caption: ""
   image: ""
+  
+  1. First item
+2. Another item
+
 ---
