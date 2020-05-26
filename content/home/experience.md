@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New York, NY"
   date_start = "2014-02-01"
-  date_end = "2019-04-31"
+  date_end = "2019-04-30"
 
   
 
