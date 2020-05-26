@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: static/pdf/Ruff et al - JADA 2019.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
