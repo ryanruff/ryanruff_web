@@ -19,7 +19,7 @@ authors = ["Ryan Richard Ruff", "Richard Niederman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Trials, *19(1). You may use *Markdown* for italics etc."
+publication = "*Trials, 19*(1)."
 publication_short = ""
 
 # Abstract and optional shortened version.
