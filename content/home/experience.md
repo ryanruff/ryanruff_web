@@ -22,23 +22,32 @@ date_format = "Jan 2006"
   company = "New York University"
   company_url = ""
   location = "New York, NY"
-  date_start = "2017-01-01"
+  date_start = "2019-05-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Director, Biostatisics Core & Clinical Research Program"""
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+[[experience]]
+  title = "Assistant Professor"
+  company = "New York University"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2014-02-01"
+  date_end = "2019-4-31"
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Director, Research & Evaluation Unit"
+  company = "New York City Department of Health"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "New York, NY"
+  date_start = "2011-10-01"
+  date_end = "2014-1-31"
+  
+  [[experience]]
+  title = "Director of Research & Evaluation"
+  company = "New York City Department of Education"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2010-06-01"
+  date_end = "2011-9-31"
+  
 +++
