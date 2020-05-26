@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   location = "New York, NY"
   date_start = "2019-05-01"
   date_end = ""
-  description = """Director, Biostatisics Core & Clinical Research Program"""
   
 [[experience]]
   title = "Assistant Professor"
@@ -32,7 +31,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New York, NY"
   date_start = "2014-02-01"
-  date_end = "2019-4-31"
+  date_end = "2019-04-31"
 
 [[experience]]
   title = "Director, Research & Evaluation Unit"
@@ -40,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New York, NY"
   date_start = "2011-10-01"
-  date_end = "2014-1-31"
+  date_end = "2014-01-31"
   
   [[experience]]
   title = "Director of Research & Evaluation"
@@ -48,6 +47,6 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New York, NY"
   date_start = "2010-06-01"
-  date_end = "2011-9-31"
+  date_end = "2011-09-31"
   
 +++
