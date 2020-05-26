@@ -53,6 +53,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ryanrichardruff
+- icon: pubmed
+  icon_pack: ai
+  link: https://pubmed.ncbi.nlm.nih.gov/?term=ruff_rr
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
