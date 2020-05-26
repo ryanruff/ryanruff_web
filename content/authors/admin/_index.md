@@ -10,33 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: New York University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the relationship between oral health and child development, and oral health and intermittent fasting. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Epidemiology
+- Oral health and academic performance
+- Quality of life
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Research, Statistics, & Evaluation
+    institution: University of Virginia
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: MPH in Epidemiology
+    institution: Harvard University
+    year: 2017
+  - course: MPhil in Education Policy
+    institution: Cambridge University
+  - course: BAMT in Education
+    institution: University of Virginia
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
