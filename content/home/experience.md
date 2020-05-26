@@ -25,5 +25,14 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = ""
   
+  [[experience]]
+  title = "Assistant Professor"
+  company = "New York University"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2014-02-01"
+  date_end = "2019-04-31"
+
+  
 
 +++
