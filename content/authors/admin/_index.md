@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Epidemiology
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -22,17 +22,15 @@ bio: My research focuses on the relationship between oral health and child devel
 
 interests:
 - Statistical Epidemiology
-- Oral health and academic performance
-- Quality of life
+- Oral health
+- Education
 
 education:
   courses:
   - course: PhD in Research, Statistics, & Evaluation
     institution: University of Virginia
-    year: 2009
   - course: MPH in Epidemiology
     institution: Harvard University
-    year: 2017
   - course: MPhil in Education Policy
     institution: Cambridge University
   - course: BAMT in Education
@@ -45,21 +43,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#mailto:ryan.ruff@nyu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ryanrichardruff
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=YUTXhccAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ryanrichardruff
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ryan Richard Ruff is a professor of epidemiology at the New York University College of Dentistry and associated professor at the NYU School of Global Public Health. He is also Director of the Biostatistics Core and Director of the MS Program in Clinical Research. His research interests include oral health and child development (particularly cognitive development and psychosocial functioning) and oral health and intermittent fasting. 
