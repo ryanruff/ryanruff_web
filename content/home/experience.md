@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "New York, NY"
   date_start = "2019"
   date_end = ""
-  description = """
+
++++
 
 [[experience]]
   title = "Professor"
