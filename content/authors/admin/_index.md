@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Ryan Richard Ruff is a professor of epidemiology at the New York University College of Dentistry and an associated professor at the NYU School of Global Public Health. He is also Director of the Biostatistics Core and Director of the MS Program in Clinical Research. His research interests include oral health and child development, specifically cognitive and psychosocial functioning, and oral health and intermittent fasting. 
+Ryan Ruff is a professor of epidemiology at the New York University College of Dentistry and an associated professor at the NYU School of Global Public Health. He is also Director of the Biostatistics Core and Director of the MS Program in Clinical Research. His research interests include oral health and child development, specifically cognitive and psychosocial functioning, and oral health and intermittent fasting. 
