@@ -52,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=YUTXhccAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/ryanrichardruff
+  link: https://github.com/ryanruff
 - icon: pubmed
   icon_pack: ai
   link: https://pubmed.ncbi.nlm.nih.gov/?term=ruff_rr
