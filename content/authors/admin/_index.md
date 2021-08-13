@@ -21,7 +21,8 @@ organizations:
 bio: My research focuses on the relationship between oral health and child development, and oral health and intermittent fasting. 
 
 interests:
-- Statistical epidemiology
+- Epidemiology
+- Applied biostatistics
 - Oral health
 - Education
 
