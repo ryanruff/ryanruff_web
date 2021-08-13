@@ -2,7 +2,7 @@
 title = "Microbial population shift and metabolic characterization of silver diamine fluoride treatment failure on dental caries"
 
 # Date first published.
-date = "2021-03-015
+date = "2021-03-015"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Bidisha Paul", "Maria A. Sierra", "Fangxi Xu", "Yasmi Crystal", "Deepak Saxena", "Ryan Richard Ruff"]
 
