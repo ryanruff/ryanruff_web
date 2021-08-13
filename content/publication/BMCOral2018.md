@@ -1,13 +1,14 @@
 +++
-title = "Comparative effectiveness of school-based caries prevention: A prospective cohort study"
+title = "Predicting Treatment Nonresponse in Hispanic/Latino Children Receiving Silver Diamine Fluoride for Caries Arrest: A Pilot Study Using Machine Learning
+"
 
 # Date first published.
-date = "2018-04-01"
+date = "2021-07-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ryan Richard Ruff", "Richard Niederman"]
+authors = ["Ryan Richard Ruff", "Bidisha Paul", "Maria A. Sierra", "Fangxi Xu", "Deepak Saxena"]
 
-doi = "10.1186/s12903-018-0514-6"
+doi = "10.3389/froh.2021.695759"
 
 # Publication type.
 # Legend:
@@ -21,7 +22,7 @@ doi = "10.1186/s12903-018-0514-6"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*BMC Oral Health, 18*(1)"
+publication = "*Frontiers in Oral Health, 2*(1)"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -41,7 +42,7 @@ featured = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Ruff & Niederman - BMC Oral Health 2018.pdf"
+url_pdf = "pdf/Ruff et al - Frontiers in OH 2021.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
