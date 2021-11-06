@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the relationship between oral health and child development, and oral health and intermittent fasting. 
+bio: My research focuses on the relationship between oral health and child development and the optimization of school-based dental programs to reduce health disparities. 
 
 interests:
 - Epidemiology
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Ryan Ruff is a professor of epidemiology at the New York University College of Dentistry and an associated professor at the NYU School of Global Public Health. He is also director of the Biostatistics Core, chair of the Master of Science program in Clinical Research, and director of the Oral Health Epidemiology and Analytics Lab (OHEAL). His research interests include oral health and child development, specifically cognitive and psychosocial functioning, and oral health and intermittent fasting. Dr. Ruff is currently the PI of studies funded by the NIH and PCORI to explore the effectiveness of non-surgical interventions for dental caries and the use of machine learning and multilevel structural equation models to predict responsiveness to preventive therapy. 
+Ryan Ruff is a professor of epidemiology at the New York University College of Dentistry and an associated professor at the NYU School of Global Public Health. He is also director of the Biostatistics Core, chair of the Master of Science program in Clinical Research, and director of the Oral Health Epidemiology and Analytics Lab (OHEAL). His research interests include oral health and child development, specifically cognitive and psychosocial functioning, and the optimization of school-based dental programs to reduce health disparities. Dr. Ruff is currently the PI of studies funded by the NIH and PCORI to explore the effectiveness of non-surgical interventions for dental caries and the use of machine learning and multilevel structural equation models to predict responsiveness to preventive therapy. 
