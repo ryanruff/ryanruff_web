@@ -21,10 +21,9 @@ organizations:
 bio: My research focuses on the relationship between oral health and child development and the optimization of school-based dental programs to reduce health disparities. 
 
 interests:
-- Epidemiology
-- Applied biostatistics
-- Oral health
-- Education
+- School health
+- Oral disease epidemiology
+- Machine learning 
 
 education:
   courses:
