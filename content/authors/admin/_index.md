@@ -23,7 +23,7 @@ bio: My research focuses on the relationship between oral health and child devel
 interests:
 - School health
 - Oral disease epidemiology
-- Machine learning 
+- Biostatistics
 
 education:
   courses:
