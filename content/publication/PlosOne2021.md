@@ -1,12 +1,12 @@
 +++
-title = "Microbial population shift and metabolic characterization of silver diamine fluoride treatment failure on dental caries"
+#title = "Microbial population shift and metabolic characterization of silver diamine fluoride treatment failure on dental caries"
 
 # Date first published.
-date = "2021-03-15"
+#date = "2021-03-15"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bidisha Paul", "Maria A. Sierra", "Fangxi Xu", "Yasmi Crystal", "Deepak Saxena", "Ryan Richard Ruff"]
+#authors = ["Bidisha Paul", "Maria A. Sierra", "Fangxi Xu", "Yasmi Crystal", "Deepak Saxena", "Ryan Richard Ruff"]
 
-doi = "10.1371/ journal.pone.0242396"
+#doi = "10.1371/ journal.pone.0242396"
 
 # Publication type.
 # Legend:
