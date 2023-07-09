@@ -17,30 +17,30 @@
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+#publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*PLOS One, 16*(3)"
-publication_short = ""
+#publication = "*PLOS One, 16*(3)"
+#publication_short = ""
 
 # Abstract and optional shortened version.
 # abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
-featured = true
+#featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+#projects = []
 
 # Links (optional).
-url_pdf = "pdf/Paul, Sierra, Saxena, Ruff - PLOS One.pdf"
+#url_pdf = "pdf/Paul, Sierra, Saxena, Ruff - PLOS One.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
