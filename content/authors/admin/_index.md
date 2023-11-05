@@ -72,6 +72,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Dr. Ryan Richard Ruff, PhD, MPH is an associate professor in the department of Epidemiology & Health Promotion at the New York University College of Dentistry, where he also serves as director of the Biostatistics Core. His research blends epidemiology, education research, and implementation science to study sustainable, school-based preventive medicine. Dr. Ruff is a Multiple Principal Investigator of the CariedAway school-based oral health research network, the contact PI of the Pragmatic Research to Implement Sustainable Medicine in Schools (PRISMS) project, and a director @RASHLabs. He is a fellow of the American College of Epidemiology and a member of the American Statistical Association and the American Educational Research Association.
+Dr. Ryan Richard Ruff, PhD, MPH is an associate professor in the department of Epidemiology & Health Promotion at the New York University College of Dentistry, where he also serves as director of the Biostatistics Core. His research blends epidemiology, education research, and implementation science to study school-based preventive medicine and its effect on child development. Dr. Ruff is a Multiple Principal Investigator of the CariedAway school-based oral health research network, the contact PI of the Pragmatic Research to Implement Sustainable Medicine in Schools (PRISMS) project, and a director @RASHLabs. He is a fellow of the American College of Epidemiology and a member of the American Statistical Association and the American Educational Research Association.
 
 
