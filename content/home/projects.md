@@ -28,6 +28,7 @@ subtitle = ""
    [[content.filter_button]]
      name = "RASH Lab"
      tag = "rash lab"
+     Loren ipsum. 
   
    [[content.filter_button]]
      name = "CariedAway"
@@ -78,7 +79,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-
- Loren ipsum
 +++
 
