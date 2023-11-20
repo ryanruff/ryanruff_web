@@ -1,5 +1,5 @@
 ---
-title: RASH Lab
+title: RASH Labs
 summary: Research and Analysis in School Health Lab
 tags:
 - rash
@@ -30,7 +30,13 @@ url_video: ""
 slides: example
 ---
 
-The Research and Analysis in School Health Lab at New York University focuses on the design, implementation, and evaluation of school-based preventive medicine programd and their effects on child cognition and psychosocial functioning. 
+The Research and Analysis in School Health Lab at New York University focuses on the design, implementation, and evaluation of school-based preventive medicine programs and their effects on child cognition and psychosocial functioning. Members of RASH Labs are currently investigating the optimization of school-based caries prevention using silver diamine fluoride (CariedAway), the sustainability of caries prevention through the use of school nurses in the provision of care (PRISMS), and the use of adaptive interventions to reduce treatment nonresponse (Making caries prevention SMART). 
+
+Principal Investigator
+Ryan Richard Ruff, PhD, MPH, is an associate professor in the department of Epidemiology & Health Promotion and director of the RASH Labs. 
+
+Research Team
+Tamarinda Barry Godín, DDS, MPH, is a research scientist in the department of Epidemiology & Health Promotion and former clinical director of the CariedAway project. 
 
 Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
