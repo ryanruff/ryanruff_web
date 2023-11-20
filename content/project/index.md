@@ -1,8 +1,8 @@
 ---
-title: Internal Project
+title: rash
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- rash
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
