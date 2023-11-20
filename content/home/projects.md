@@ -26,8 +26,8 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "RASH Lab"
-     tag = "rash lab"
+     name = "RASH"
+     tag = "rash"
   
    [[content.filter_button]]
      name = "CariedAway"
