@@ -1,6 +1,6 @@
 ---
-title: RASH Labs
-summary: Research and Analysis in School Health Lab
+title: CariedAway
+summary: 
 tags:
 - rash
 date: "2016-04-27T00:00:00Z"
