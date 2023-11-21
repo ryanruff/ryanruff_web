@@ -1,6 +1,6 @@
 ---
 title: CariedAway
-summary: 
+summary: School-based research network
 tags:
 - project
 date: "2016-04-27T00:00:00Z"
