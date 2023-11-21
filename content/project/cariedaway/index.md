@@ -29,7 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-![image](https://github.com/ryanruff/ryanruff_web/assets/65179113/011eb3fa-b5ae-48c0-a2ad-15c354bc8347)
-
+ 
+![image](https://github.com/ryanruff/ryanruff_web/assets/65179113/0062a586-ee03-48dd-87ab-3dbe33aa691b)
 
