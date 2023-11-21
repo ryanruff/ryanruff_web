@@ -29,36 +29,21 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
- CariedAway program description: The New York University College of Dentistry, Department of Epidemiology and Health Promotion, is committed to providing evidence-based frameworks for the development, monitoring, and dissemination of novel approaches to oral health education, prevention, and disease control in the Americas and globally. One of only ten World Health Organization (WHO) Dentistry Collaborating Centers in the world, the Department of Epidemiology and Health Promotion engages in education, research, and scholarly exchange on behalf of three principal aims: 
+Here at RASH Lab, we are committed to providing evidence-based frameworks for the development, monitoring, and dissemination of novel approaches to oral health education, prevention, and disease control in the Americas and globally. We engage in education, research, and scholarly exchange on behalf of three principal aims: 
+ 
 1.	To provide technical cooperation in designing novel effective and efficient surveillance systems for oral diseases, conditions and behaviors that measure disease burden, quality of life, and intervention impact
-2.	To develop and disseminate research for the prevention/control of oral diseases across the lifespan. 
-3.	To develop educational content for the prevention and control of oral diseases among seniors and the elderly by primary healthcare professionals working in community and health centers. 
-CariedAway addresses the first two of these principal aims by partnering with local providers in the provision of dental services to children in participating elementary schools in New York and New Hampshire. More than half of U.S. elementary school-age children have had a dental cavity, and more than 20 percent have untreated cavities. The overall goal of the program is to (1) measurably improve oral health equity by implementing an effective, patient-centered school and community-based cavity prevention protocol; (2) perform research to improve health; and (3) disseminate results to the community. 
-CariedAway, as a school-based health center dental clinic program (SBHC-D), is an approved dental health services delivery and research program that provides dental health services to schools during school hours. Dental services include basic screenings, preventive services, and referrals. Services are provided directly and are designed to meet the needs of children and youth within the context of the family, culture, and environment. Services are also being provided in community-based locations. CariedAway is located in communities and schools designated as high need based on an assessment of community needs and resources. Schools with a larger proportion of students with the highest prevalence of unmet dental need and limited access to oral health resources and services have been targeted for the establishment of services. 
-CariedAway meets the following intervention criteria for a school-based health clinic provider and research network based on need, feasibility, and local capacity, according to guidance published by the Bureau of Dental Health, NYS Department of Health: 
-I.	Health Education and Promotion Program 
-•	Dental health education is incorporated in the school curriculum through the development and implementation of specific age-appropriate activities to promote dental health 
-•	Dental health education is provided in a group or classroom setting; it is also provided to parents and teachers. 
-•	The curriculum covers basic information about oral health, including age-appropriate oral hygiene practices (brushing, flossing), caries prevention, nutrition and dental health. 
-•	The provision of comprehensive health education includes: 
-I.	One-on-one patient education and group/targeted education
-II.	Family and community oral health education; and Oral health education for school staff. 
-II.	School and Community-Based Preventive Program (assessments, counseling, screenings, referral) 
-•	All enrolled children undergo a general dental assessment or screening by a dental hygienist, nurse, or other health professional for the purposes of: 
-I.	Collecting oral health surveillance data and determining oral health status;
-II.	Identifying current oral health problems and treatment needs; and
-III.	Making referrals for any needed dental care and treatment. 
-•	Oral health assessments consist of an oral health history, including the name of the child’s dentist and date of the last visit an inspection of the mouth, and identification of problems. 
-III.	School and Community-Based Clinical Preventive Program
-•	Clinical Preventive Services: All dental services are provided in accordance with current standards of professional practice, are within the scope of practice of dentistry as defined by the
-American Dental Association and are in accordance with NYS regulations.
-IV.	PBRN Administration, including:
-•	Follow-Up and Referrals, including continuity of care (24 hour, 7 day/week coverage)
-•	Maintenance of medical/clinical records as per Section 751.7 of Title 10 NYCRR (the health portion of NYS Code of Rules and Regulations) 
-•	Clinical preventive services are provided in compliance with Section 751.7 of Title 10 NYCRR 
-•	Coordination of Care with Another Provider
-•	Transfer of Client Specific Information Among Providers, Article 28 Sponsor, & Back-up Facility
-Manual of Procedures: The CariedAway PBRN includes a robust clinical protocol/manual of procedures (MOP) that includes detailed descriptions of the administrative policies, procedures, and guidelines pertaining to school-based health center dental program clinical operations and patient care. Key components of the MOP include: scope of services provided; recall schedules; leadership structure and hiring procedures; orientation and clinician training; infection control; regulatory documentation including informed consent, confidentiality, and patient safety; patient enrollment; program implementation; financial procedures; data management; and quality assurance measures. 
-![image](https://github.com/ryanruff/ryanruff_web/assets/65179113/815fa543-2f17-4fda-800a-57396eefe972)
+   
+2.	To develop and disseminate research for the prevention/control of oral diseases across the lifespan.
+   
+3.	To develop educational content for the prevention and control of oral diseases among seniors and the elderly by primary healthcare professionals working in community and health centers.
+
+The CariedAway project is a multi-state caries prevention program and pragmatic clinical trial focused on innovative approaches to school-based caries prevention. From 2018-2023, we conducted a pragmatic randomized clinical trial within the CariedAway network. Primary results of the CariedAway trial demonstrated that (1) an alternative minimally-invasive treatment—silver diamine fluoride—is non-inferior to traditional sealants in the arrest and prevention of dental caries when provided in a school-based program, (2) that registered nurses are equally as effective as hygienists in the provision and results of care using SDF, and that (3) programs improve oral health-related quality of life. CariedAway included a diverse study population and robust data collection system, providing care to over 7000 low-income, minority children using proprietary electronic health records and a data coordinating center. The richness of the CariedAway data can therefore support multiple additional research opportunities that can further improve upon the design, implementation, and evaluation of school-based dental programs. In this project, we pursue the following objectives:
+
+Aim 1: Improve upon program evaluation by estimating the incidence rate of caries over time in the presence of interval-censored data. Due to the spacing of treatments, all school-based health programs suffer from interval censoring, where the exact point of disease incidence is unobserved. We will utilize two-stage multiple imputation using semi-parametric G-transformation to address this limitation. 
+
+Aim 2: Refine strategies for using SDF in a school-based program. We will explore a series of novel hypotheses that can be used to inform clinical practice of SDF in school-based care. These questions include: what frequency of SDF application is necessary to longitudinally arrest caries in high-risk children; whether indirect application of SDF on caries results in subsequent arrest; and what are the transition probabilities from disease states in children receiving SDF in a school-based program. Methods for this aim will use multilevel mixed-effects models and nonhomogeneous Markov models.
+
+Aim 3: Estimate the practical “seat-time” requirements for school-based prevention and how they vary by treatment, provider type, and need severity. School-based dental programs are attractive because they make effective oral healthcare accessible to underreached or underserved populations. However, the time required to treat children in a school-based program is unknown and therefore limits proper planning and implementation of programs. In this aim, we will analyze seat-time requirements for school-based care, including total time in chair, time for exams, time for treatments, and time by severity of need. Analysis will use multivariate analysis of variance and aligned ranks transformation ANOVA with permutation tests.
 
 
+  
