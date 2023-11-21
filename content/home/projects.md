@@ -26,16 +26,16 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "RASH"
-     tag = "rash"
+     name = "Projects"
+     tag = "project"
   
    [[content.filter_button]]
-     name = "CariedAway"
-     tag = "cariedaway"
+     name = "Researchers"
+     tag = "research"
 
    [[content.filter_button]]
-     name = "PRISMS"
-     tag = "prisms"
+     name = "Students"
+     tag = "student"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
