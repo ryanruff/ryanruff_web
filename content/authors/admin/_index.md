@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the relationship between oral health and child development and the optimization of school-based dental programs to reduce health disparities. 
+bio: Dr. Ruff is an epidemiologist and education researcher interested in the implementation and evaluation of school-based preventive medicine programs and their effects on child cognitive and socioemotional development.
 
 interests:
 - School health
