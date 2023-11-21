@@ -31,7 +31,7 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Researchers"
-     tag = "research"
+     tag = "researcher"
 
    [[content.filter_button]]
      name = "Students"
