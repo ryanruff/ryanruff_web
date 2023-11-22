@@ -36,7 +36,11 @@ To combat the “silent epidemic” of dental caries, the world’s most prevale
 
 <img width="510" alt="image" src="https://github.com/ryanruff/ryanruff_web/assets/65179113/36c5d266-115f-4b59-a8ec-d2a676e6ab64">
 
-We propose to develop and assess personalized approaches to SBCP using adaptive interventions (AI), simultaneously testing multiple types, intensities, and modalities of treatment delivery in school-based care. Evaluated by embedding dynamic treatment regimes (DTR) within a sequential multiple assignment randomized trial (SMART) design, we will explore a number of hypotheses related to adaptive interventions with the goal of reducing treatment nonresponse and health inequities. Our project objectives include:
+From this research, we combined data from the oral microbiome, clinical observations, and hygiene behaviors and developed an artificial neural network that can be used to predict treatment nonresponse.
+
+<img width="227" alt="image" src="https://github.com/ryanruff/ryanruff_web/assets/65179113/41177af3-2136-416a-be65-516c064ed4cc">
+
+The SMART project is an interventional strategy to develop and assess personalized approaches to SBCP using adaptive interventions (AI), simultaneously testing multiple types, intensities, and modalities of treatment delivery in school-based care. Evaluated by embedding dynamic treatment regimes (DTR) within a sequential multiple assignment randomized trial (SMART) design, we will explore a number of hypotheses related to adaptive interventions with the goal of reducing treatment nonresponse and health inequities. Our project objectives include:
 
 1.	Evaluate the comparative effectiveness of adaptive interventions for SBCP. Our primary hypothesis will compare the overall impact of adaptive treatment pathways, which will include treatment of varying intensity or type. We will assess the longitudinal caries incidence across DTRs using mixed-effects multilevel modeling (distal outcomes) and marginal causal excursion effect estimation (proximal outcomes). We will further evaluate the impact on health inequities by reducing nonresponse.
    
