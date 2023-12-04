@@ -1,5 +1,5 @@
 ---
-title: Kristen He
+title: Tamarinda J. Barry Godín
 summary: Research Scientist
 tags:
 - researcher
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Tamarinda J. Barry Godín DDS, MPH is a board-certified pediatric dental specialist and public health practitioner. Her research centers on increasing oral health equity and psychosocial functioning for high-risk, pediatric, low-income, racial and ethnic minority populations, and people with intellectual and physical disabilities. She previously served as the Associate Program Director and Supervising Dentist of the CariedAway project, and now continues that work with the KinderSmile Foundation as the Director of the KinderSmile Oral Health Program. She is currently pursuing her DrPH in implementation science at the Johns Hopkins University Bloomberg School of Public Health, and is a Research Scientist in the department of Epidemiology & Health Promotion at the New York University College of Dentistry.
+Tamarinda J. Barry Godín DDS, MPH is a Research Scientist in the department of Epidemiology & Health Promotion at the New York University College of Dentistry. A board-certified pediatric dental specialist and public health practitioner, her research centers on increasing oral health equity and psychosocial functioning for high-risk, pediatric, low-income, racial and ethnic minority populations, and people with intellectual and physical disabilities. She previously served as the Associate Director and Supervising Dentist of the CariedAway project, and collaborates on the current CariedAway and PRISMS projects. She is pursuing her DrPH in implementation science at the Johns Hopkins University Bloomberg School of Public Health.
