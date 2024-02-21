@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Ruff is an epidemiologist and education researcher interested in the implementation and evaluation of school-based preventive medicine programs and their effects on child cognitive and socioemotional development.
+bio: Dr. Ruff is an epidemiologist and education researcher interested in school-based preventive medicine and its effects on child cognitive and socioemotional development.
 
 interests:
 - School health
@@ -72,6 +72,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Dr. Ryan Richard Ruff, PhD, MPH is an associate professor in the department of Epidemiology & Health Promotion at the New York University College of Dentistry and an associated professor at the NYU School of Global Public Health. His research focuses on the implementation and evaluation of school health systems and their effects on child development. Dr. Ruff is a Principal Investigator of the CariedAway community-based participatory research network, the contact PI of the Pragmatic Research to Implement Sustainable Medicine in Schools (PRISMS) project, and oversees the Laboratory for Research & Analysis in School Health (RASH Labs). He is also the director of the Biostatistics Core, supporting additional collaborations in pediatrics, molecular pathobiology, biomaterials, and clinical psychology.
+Dr. Ryan Richard Ruff, PhD, MPH is an associate professor in the department of Epidemiology & Health Promotion at the New York University College of Dentistry and an associated professor at the NYU School of Global Public Health. His research focuses on the implementation and evaluation of school health systems and their effects on child development. Dr. Ruff is a Principal Investigator of the CariedAway community-based participatory research network, the contact PI of the Pragmatic Research to Implement Sustainable Medicine in Schools (PRISMS) project, and oversees the Laboratory for Research & Analysis in School Health (RASH Labs). He is also the director of the Biostatistics Core, supporting additional collaborations in pediatrics, molecular pathobiology, oncology, and clinical psychology.
 
 
