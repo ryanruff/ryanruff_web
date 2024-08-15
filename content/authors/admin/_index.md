@@ -23,7 +23,7 @@ bio: Dr. Ruff is an epidemiologist and education researcher interested in school
 interests:
 - School health
 - Oral disease epidemiology
-- Applied statistics
+- Pragmatic clinical trials 
 
 education:
   courses:
