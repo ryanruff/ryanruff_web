@@ -72,6 +72,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Dr. Ryan Richard Ruff, PhD, MPH, is an epidemiologist and education researcher studying school health and child development. He is an associate professor in the department of Epidemiology & Health Promotion at New York University with appointments at the College of Dentistry and the School of Global Public Health. Dr. Ruff is a PI of the Pragmatic Research Implementing Sustainable Medicine in Schools (PRISMS) project, which currently includes the CariedAway research network, the BASICS trial of adaptive school-based preventive interventions, and the PROMISES effectiveness-implementation hybrid trial. He is also the director of the Biostatistics Core, supporting additional collaborations in oncology, biomaterials, and molecular pathobiology.
+Dr. Ryan Richard Ruff, PhD, MPH, is an epidemiologist and education researcher studying school health and child development. He is an associate professor in the department of Epidemiology & Health Promotion at New York University with appointments at the College of Dentistry and the School of Global Public Health. Dr. Ruff is a PI of the Pragmatic Research Implementing Sustainable Medicine in Schools (PRISMS) lab, which currently includes the CariedAway research network, the BASICS trial of adaptive school-based preventive interventions, and the PROMISES effectiveness-implementation hybrid trial. He is also the director of the Biostatistics Core, supporting additional collaborations in oncology, biomaterials, and molecular pathobiology.
 
 
