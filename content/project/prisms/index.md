@@ -1,6 +1,6 @@
 ---
 title: PROMISES
-summary: PROMoting the Implementation of SDF for Effective School Health
+summary: PROMoting the Implementation of SDF for Effective School health
 tags:
 - project
 date: "2016-04-27T00:00:00Z"
@@ -29,6 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+PROMoting the Implementation of SDF for Effective School health
 
 Multiple state and federal agencies recommend school-based caries prevention to increase access to dental care for underserved groups and mitigate the severe health and socioemotional consequences of untreated caries. The most common approach, school sealant programs, are effective but underutilized due to financial constraints and other logistical challenges. Silver diamine fluoride (SDF) is an innovative, efficient therapy for dental caries that holds considerable promise for sustainable caries prevention in schools. Over the past seven years, we have conducted multiple school-based pragmatic trials demonstrating that SDF (1) can be successfully incorporated into school caries prevention; (2) is similarly effective compared to dental sealants in reducing the prevalence and incidence of caries; (3) is cost-effective, particularly when provided to low-income minority populations, and (4) can be successfully applied in schools by nurses, who are equivalent in effectiveness compared to dental hygienists. This new model has the potential to greatly expand the reach and effectiveness of school-based caries prevention. 
 
