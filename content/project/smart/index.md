@@ -30,7 +30,7 @@ url_video: ""
 slides: example
 ---
 
-The Building Adaptive, School-Based Interventions for Dental Caries Study (BASICS)
+The Building Adaptive School-based Interventions for Caries Study (BASICS)
 
 Dental caries is the world’s most prevalent noncommunicable disease, and is highly inequitable. To combat this silent epidemic, school-based caries prevention can increase access to critical care for underserved populations, reducing caries risk and mitigating its severe health and socioemotional consequences. However, despite the use of evidence-based interventions, approximately 30% of children participating in school-based caries prevention fail to respond to treatment, developing new caries and remaining at high risk for subsequent complications. 
 
