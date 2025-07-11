@@ -1,7 +1,6 @@
 ---
-title: SMART
-summary: Adaptive interventions to reduce treatment nonresponse
-tags:
+title: BASICS
+summary: Building Adaptive, School-based Interventions for Caries Study
 - project
 date: "2016-04-27T00:00:00Z"
 
@@ -30,9 +29,11 @@ url_video: ""
 slides: example
 ---
 
-Making caries prevention SMART: adaptive interventions to reduce treatment nonresponse.
+The Building Adaptive, School-Based Interventions for Dental Caries Study (BASICS)
 
-To combat the “silent epidemic” of dental caries, the world’s most prevalent noncommunicable disease, multiple state and federal agencies recommend school-based caries prevention programs (SBCP). These public health interventions can increase access to critical care for underserved populations, reduce inequities, and mitigate the severe health and socioemotional consequences of untreated caries. However, despite the use of evidence-based interventions, between 20-30% of children participating in school-based caries prevention fail to respond to treatment, developing new caries and remaining at high risk for subsequent complications. Our etiologic investigations into the determinants of treatment nonresponse demonstrated that there are innate microbial and environmental factors that may be related to nonresponse to school-based care, identifying significant differences between responders and nonresponders at phylum and genus levels. 
+Dental caries is the world’s most prevalent noncommunicable disease, and is highly inequitable. To combat this silent epidemic, school-based caries prevention can increase access to critical care for underserved populations, reducing caries risk and mitigating its severe health and socioemotional consequences. However, despite the use of evidence-based interventions, approximately 30% of children participating in school-based caries prevention fail to respond to treatment, developing new caries and remaining at high risk for subsequent complications. 
+
+Our etiologic investigations into the determinants of treatment nonresponse demonstrated that there are innate microbial and environmental factors that may be related to nonresponse to school-based care, identifying significant differences between responders and nonresponders at phylum and genus levels. 
 
 <img width="510" alt="image" src="https://github.com/ryanruff/ryanruff_web/assets/65179113/36c5d266-115f-4b59-a8ec-d2a676e6ab64">
 
@@ -40,13 +41,4 @@ From this research, we combined data from the oral microbiome, clinical observat
 
 <img width="227" alt="image" src="https://github.com/ryanruff/ryanruff_web/assets/65179113/41177af3-2136-416a-be65-516c064ed4cc">
 
-The SMART project is an interventional strategy to develop and assess personalized approaches to SBCP using adaptive interventions (AI), simultaneously testing multiple types, intensities, and modalities of treatment delivery in school-based care. Evaluated by embedding dynamic treatment regimes (DTR) within a sequential multiple assignment randomized trial (SMART) design, we will explore a number of hypotheses related to adaptive interventions with the goal of reducing treatment nonresponse and health inequities. Our project objectives include:
-
-1.	Evaluate the comparative effectiveness of adaptive interventions for SBCP. Our primary hypothesis will compare the overall impact of adaptive treatment pathways, which will include treatment of varying intensity or type. We will assess the longitudinal caries incidence across DTRs using mixed-effects multilevel modeling (distal outcomes) and marginal causal excursion effect estimation (proximal outcomes). We will further evaluate the impact on health inequities by reducing nonresponse.
-   
-2.	Assess the effectiveness of school nurses compared to dental hygienists in AIs using SDF. We previously conducted a pilot study that suggested nurses are equally as effective as hygienists when using silver diamine fluoride in SBCP. In Aim 2, we will utilize an adaptive intervention that embeds nurses as providers for prevention and assess their non-inferiority compared to hygienists when using SDF. We will compare the overall incidence rate of caries in children treated by nurses and hygienists, and estimate the variation in the risk difference using bootstrapped confidence intervals.
-   
-3.	Quantify the economic costs of dynamic treatment protocols using a prospective bottom-up micro-costing approach in tandem with time studies. Quantifying costs for novel interventions are key to engaging potential stakeholders considering adoption in schools, especially when costs may vary by the expected proportion of non-responders in the targeted population of interest. Additionally, costing interventions is the first step towards understanding how much payers should reimburse for new interventions.
-
-To facilitate completion of this project, we will implement our adaptive prevention model in the CariedAway network: a multistate collaborative of over 80 schools with predominantly high-risk children, committed to innovative approaches to caries prevention. This will reduce the need for costly recruitment and has a demonstrated history of both successful clinical care and research. 
-
+Additionally, the sustainability of school-based prevention is jeopardized due to prohibitive costs, limitations of the professional workforce, and relying on treatments that are not optimized for individual patient needs. We propose to develop and assess personalized, resource-efficient approaches to school caries prevention using adaptive interventions, leading to improvements in both oral health and oral health equity. Evaluated by embedding dynamic treatment regimes (DTR) within a sequential multiple assignment randomized trial (SMART) design, we will explore a number of hypotheses related to adaptive preventive interventions. First, we will test the effects of adaptive interventions on reducing treatment nonresponse using generalized linear mixed models, followed by identifying the best dynamic treatment regime using augmented inverse probability weighted marginal structural models for causal effect estimation. We will subsequently build an optimal adaptive intervention using Q-learning, tailoring treatments to individual patient attributes and responsiveness. We will conclude with a microcosting analysis of the adaptive interventions, ultimately quantifying the intervention costs under different implementation scenarios and taking the first step towards understanding how much payers should reimburse for adaptive interventions. To facilitate completion of these aims, we will implement our adaptive prevention model in the CariedAway network: a multistate community-based participatory research group of schools serving predominantly high-risk children that are committed to innovative approaches to caries prevention. This will simplify site and patient recruitment, embeds community engagement into our research process, and has a demonstrated history of both successful clinical care and research. Successful completion of this project will produce a resource-efficient adaptive prevention intervention (API) to reduce treatment nonresponse, improving both oral health and oral health equity.
