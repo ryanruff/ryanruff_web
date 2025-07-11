@@ -29,17 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Here at RASH Lab, we are committed to providing evidence-based frameworks for the development, monitoring, and dissemination of novel approaches to oral health education, prevention, and disease control in the Americas and globally. We engage in education, research, and scholarly exchange on behalf of three principal aims: 
- 
-1.	To provide technical cooperation in designing novel effective and efficient surveillance systems for oral diseases, conditions and behaviors that measure disease burden, quality of life, and intervention impact
-   
-2.	To develop and disseminate research for the prevention/control of oral diseases across the lifespan.
-   
-3.	To develop educational content for the prevention and control of oral diseases among seniors and the elderly by primary healthcare professionals working in community and health centers.
+The CariedAway project is a multi-state initiative focused on innovative approaches to school-based caries prevention. From 2018-2023, we conducted a pragmatic randomized clinical trial within the CariedAway network, with primary results demonstrating that (1) an alternative minimally-invasive treatment—silver diamine fluoride—is non-inferior to traditional sealants in the arrest and prevention of dental caries when provided in a school-based program, (2) that registered nurses are equally as effective as hygienists in the provision and results of care using SDF, and that (3) programs improve oral health-related quality of life. CariedAway included a diverse study population and robust data collection system, providing care to over 7000 low-income, minority children using proprietary electronic health records and a data coordinating center. 
 
-The CariedAway project is a multi-state caries prevention program focused on innovative approaches to school-based caries prevention. From 2018-2023, we conducted a pragmatic randomized clinical trial within the CariedAway network, with primary results demonstrating that (1) an alternative minimally-invasive treatment—silver diamine fluoride—is non-inferior to traditional sealants in the arrest and prevention of dental caries when provided in a school-based program, (2) that registered nurses are equally as effective as hygienists in the provision and results of care using SDF, and that (3) programs improve oral health-related quality of life. CariedAway included a diverse study population and robust data collection system, providing care to over 7000 low-income, minority children using proprietary electronic health records and a data coordinating center. 
-
-The richness of the CariedAway data can support multiple additional research opportunities that can further improve upon the design, implementation, and evaluation of school-based dental programs. Presently, we are conducting a PCORI-funded research project using the CariedAway trial data to optimize treatment protocols. Objectives of this project include:
+The richness of the CariedAway data can support multiple additional research opportunities that can further improve upon the design, implementation, and evaluation of school-based dental programs. Presently, we are conducting an NIH-funded research project using the CariedAway trial data to optimize treatment protocols. Objectives of this project include:
 
 1. Improve upon program evaluation by estimating the incidence rate of caries over time in the presence of interval-censored data. Due to the spacing of treatments, all school-based health programs suffer from interval censoring, where the exact point of disease incidence is unobserved. We will utilize two-stage multiple imputation using semi-parametric G-transformation to address this limitation. 
 
