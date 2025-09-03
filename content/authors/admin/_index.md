@@ -72,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-<p align="justify"> Dr. Ryan Richard Ruff, PhD, MPH, is an associate professor and director of the Biostatistics Core at New York University. He is also an adjunct associate professor at the Uniformed Services University of the Health Sciences. Dr. Ruff is the PI of the PRISMS lab (Pragmatic Research for Innovative Sustainable Medicine in Schools), which embeds pragmatic clinical trials within school and community-based disease prevention programs to improve child development. He has received over $22MM in research funding as principal investigator from the NIMHD, NIDCR, and PCORI and published in journals including JAMA Pediatrics, JAMA Network Open, and the Journal of the American Dental Association. Dr. Ruff was named a fellow of the American College of Epidemiology in 2022. </p>
+<p align="justify"> Dr. Ryan Richard Ruff, PhD, MPH, is an associate professor and director of the Biostatistics Core at New York University. He is also an adjunct associate professor at the Uniformed Services University of the Health Sciences. Dr. Ruff is the PI of the PRISMS lab (Pragmatic Research for Innovative Sustainable Medicine in Schools), which embeds pragmatic clinical trials within school and community-based disease prevention programs to improve health and child development. He has received over $22MM in research funding as principal investigator from the NIMHD, NIDCR, and PCORI and published in journals including JAMA Pediatrics, JAMA Network Open, and the Journal of the American Dental Association. Dr. Ruff was named a fellow of the American College of Epidemiology in 2022. </p>
 
 
 
