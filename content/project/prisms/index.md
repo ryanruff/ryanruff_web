@@ -1,6 +1,6 @@
 ---
 title: PROMISES
-summary: PROMoting the Implementation of SDF for Effective School health
+summary: Effectiveness-implementation hybrid trial
 tags:
 - project
 date: "2016-04-27T00:00:00Z"
