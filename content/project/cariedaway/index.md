@@ -1,6 +1,6 @@
 ---
 title: CariedAway
-summary: School-based research network and caries prevention program
+summary: School-based pragmatic clinical trial
 tags:
 - project
 date: "2016-04-27T00:00:00Z"
