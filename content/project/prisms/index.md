@@ -1,6 +1,6 @@
 ---
 title: PROMISES
-summary: Effectiveness-implementation hybrid trial
+summary: SDF implementation trial
 tags:
 - project
 date: "2016-04-27T00:00:00Z"
