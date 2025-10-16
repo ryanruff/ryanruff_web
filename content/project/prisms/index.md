@@ -1,6 +1,6 @@
 ---
 title: PROMISES
-summary: Implementation trial
+summary: Effectiveness-Implementation trial
 tags:
 - project
 date: "2016-04-27T00:00:00Z"
