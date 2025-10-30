@@ -72,8 +72,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-<p align="justify"> Dr. Ryan Richard Ruff, PhD, MPH, is an associate professor and director of the Biostatistics Core at New York University. He is also an adjunct associate professor at the Uniformed Services University of the Health Sciences. Dr. Ruff is the PI of the PRISMS lab (Pragmatic Research for Innovative and Sustainable Medicine in Schools), which embeds pragmatic clinical trials within school and community-based disease prevention programs to improve health and child development. He has received over $22MM in research funding as principal investigator from the NIMHD, NIDCR, and PCORI and published in journals including JAMA Pediatrics, JAMA Network Open, and the Journal of the American Dental Association. Dr. Ruff was named a fellow of the American College of Epidemiology in 2022.
-
+<p align="justify"> 
+Dr. Ryan Richard Ruff, PhD, MPH, is an associate professor and Chief of the Division of Community Oral Health at the University of Pennsylvania School of Dental Medicine. He is also an adjunct associate professor at the Uniformed Services University of the Health Sciences. Dr. Ruff is the PI of the PRISMS lab (Pragmatic Research for Innovative and Sustainable Medicine in Schools), through which he conducts pragmatic clinical trials and community-based participatory research to increase access to oral healthcare and improve child development. He has received over $22MM in research funding as principal investigator from the NIMHD, NIDCR, and PCORI and published in journals including JAMA Pediatrics, JAMA Network Open, and the Journal of the American Dental Association. Dr. Ruff was named a fellow of the American College of Epidemiology in 2022. Prior to Penn, Dr. Ruff was an associate professor at the New York University College of Dentistry, where he served as Director of the Biostatistics Core and Director of the Master of Science program in Clinical Research. He was also an Associated Faculty Member at the NYU School of Global Public Health and held a recurring appointment at the Columbia University Epidemiology & Population Health Institute.
  </p>
 
 
