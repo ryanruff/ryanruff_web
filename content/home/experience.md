@@ -18,12 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Chief, Division of Community Oral Health"
+  company = "University of Pennsylvania"
+  company_url = ""
+  location = "Philadelphia, PA"
+  date_start = "2026-02-01"
+  date_end = ""
+  
+  title = "Associate Professor"
+  company = "University of Pennsylvania"
+  company_url = ""
+  location = "Philadelphia, PA"
+  date_start = "2026-02-01"
+  date_end = ""
+  
   title = "Associate Professor"
   company = "New York University"
   company_url = ""
   location = "New York, NY"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2026-01-31"
   
   [[experience]]
   title = "Assistant Professor"
