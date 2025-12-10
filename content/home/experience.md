@@ -24,14 +24,16 @@ date_format = "Jan 2006"
   location = "Philadelphia, PA"
   date_start = "2026-02-01"
   date_end = ""
-  
+
+  [[experience]]
   title = "Associate Professor"
   company = "University of Pennsylvania"
   company_url = ""
   location = "Philadelphia, PA"
   date_start = "2026-02-01"
   date_end = ""
-  
+
+  [[experience]]
   title = "Associate Professor"
   company = "New York University"
   company_url = ""
