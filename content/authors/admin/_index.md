@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: Associate Professor & Chief of Division
 
 # Organizations/Affiliations
 organizations:
-- name: New York University
+- name: University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
