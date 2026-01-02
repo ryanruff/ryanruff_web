@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ryan.ruff@nyu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ryanruff@penn.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ryanruff
