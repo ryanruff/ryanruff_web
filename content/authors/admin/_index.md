@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor & Chief of Division
+role: Associate Professor & Chief
 
 # Organizations/Affiliations
 organizations:
