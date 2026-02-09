@@ -81,23 +81,23 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ryan.ruff@nyu.edu"
-phone = "212-998-9663"
+email = "ryanruff@upenn.edu"
+phone = "215-898-8957"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "433 First Avenue", city = "New York", region = "NY", postcode = "10010", country = "United States", country_code = "US"}
+address = {street = "Hamilton 260", city = "Philadelphia", region = "PA", postcode = "19104", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.738860", longitude = "-73.977779"}
+coordinates = {latitude = "39.95369688", longitude = "-75.2031238"}
 
 # Directions for visitors to locate you.
-directions = "Room 712"
+directions = "Room 211"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Wednesday 11:00-13:00"]
+office_hours = ["Tues/Thurs 11:00-13:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
