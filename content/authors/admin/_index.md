@@ -72,10 +72,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-<p align="justify"> 
+#<p align="justify"> 
 Dr. Ryan Richard Ruff, PhD, MPH, is a tenured associate professor and Chief of the Division of Community Oral Health at the University of Pennsylvania School of Dental Medicine. He is also a Senior Fellow at the Leonard Davis Institute of Health Economics, an adjunct professor at the Uniformed Services University of the Health Sciences, and a board member at the Netter Center for Community Partnerships. An epidemiologist and education researcher, Dr. Ruff is the PI of the PRISMS lab (Pragmatic Research for Innovative and Sustainable Medicine in Schools) and director of the Center for Community Oral Health Research (C-COHR). He specializes in the use of pragmatic clinical trials and community-based participatory research to study school health systems and their effects on child development. He has received over $22MM in funding from the NIMHD, NIDCR, and PCORI and published in journals including JAMA Pediatrics, JAMA Network Open, and the Education Policy Analysis Archives. Dr. Ruff was named a fellow of the American College of Epidemiology in 2022. 
 
-</p>
+#</p>
 
 
 
